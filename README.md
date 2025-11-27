@@ -85,7 +85,7 @@ Output Waveform
 
 
 TABULATION:
-
+.
 
 
 Calculation
